@@ -1,0 +1,17 @@
+# Node dependencies
+node_modules/
+
+# Build output
+build/
+
+# Logs
+*.log
+
+# Docker
+*.pid
+*.seed
+docker-compose.override.yml
+
+# OS files
+.DS_Store
+Thumbs.db
